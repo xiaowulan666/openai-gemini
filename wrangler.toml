@@ -1,4 +1,2 @@
-name = "gemini"
-main = "src/worker.mjs"
-compatibility_date = "2024-09-23"
-compatibility_flags = [ "nodejs_compat" ]
+# wrangler.toml
+name = 'workers-playground-tight-mountain-6ef1'
